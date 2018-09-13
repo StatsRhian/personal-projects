@@ -1,5 +1,13 @@
 # Books to Read
 
+### R
+
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+
+
+### Pop Science
+
+- [ ] [Hello World - Hannah Fry]()
+- [ ] [Algorithms to Live By]()
+
