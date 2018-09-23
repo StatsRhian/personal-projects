@@ -22,7 +22,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete 50 parkruns
 - [ ] Complete 100 parkruns
 - [ ] Complete the Lonsdale Club Champs 2019
-- [ ] Complete an Ultra
+- [ ] Complete an Ultra: [Go Far](http://www.gofar.org.uk/) and [Best Value](https://climbers.net/race/value-ultras.php)
 
 ### Cycling :bicyclist:
 
