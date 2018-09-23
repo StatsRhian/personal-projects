@@ -14,7 +14,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 ### Running 🏃‍♀️
 
-- [] Run a 10k race
+- [ ] Run a 10k race
 - [ ] Run a half marathon
 - [x] Complete 5 different parkruns
 - [ ] Complete 10 different parkruns
@@ -28,46 +28,46 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 ### Swimming
 
--[ ] Complete the tadpole graham
--[ ] Swim to Peel Island
+- [ ] Complete the tadpole graham
+- [ ] Swim to Peel Island
 
 ### Climbing
 
--[x] Do a beginner climbing course
--[x] Get gear for indoor climbing
--[ ] Complete 20 indoor climbing sessions
--[ ] Take a lead climbing course
--[ ] Get gear for outdoor sport climbing
--[ ] Complete 10 indoor leading sessions
--[ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
+- [x] Do a beginner climbing course
+- [x] Get gear for indoor climbing
+- [ ] Complete 20 indoor climbing sessions
+- [ ] Take a lead climbing course
+- [ ] Get gear for outdoor sport climbing
+- [ ] Complete 10 indoor leading sessions
+- [ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
 
 ### Kayaking
 
--[ ] Join Lancaster and District Canoe Club (May 2019)
--[ ] Gear up
--[ ] First solo kayak
--[ ] Kayak overnight bivy
+- [ ] Join Lancaster and District Canoe Club (May 2019)
+- [ ] Gear up
+- [ ] First solo kayak
+- [ ] Kayak overnight bivy
 
 ### Travel/Adventure
--[x] Isle of Man by bike/ferry
--[x] Blackpool coast by bike/ferry
--[ ] Netherlands by bike/ferry
--[ ] Cycle to Llangwandl
--[ ] Cycle tour of the highlands (Hebridean way?)
--[ ] Campervan trip to France with bikes
--[ ] Kayak around the coast of North Wales
+- [x] Isle of Man by bike/ferry
+- [x] Blackpool coast by bike/ferry
+- [ ] Netherlands by bike/ferry
+- [ ] Cycle to Llangwandl
+- [ ] Cycle tour of the highlands (Hebridean way?)
+- [ ] Campervan trip to France with bikes
+- [ ] Kayak around the coast of North Wales
 
-## Welsh Language
--[x] Complete Cwrs Mynediad  
--[ ] Complete Cwrs Sylfaen  
--[ ] Complete Duolingo tree
--[x] SSiW Level 1
--[ ] SSiW Level 2
--[ ] SSiW Level 3
--[ ] Read Sgŵp!
--[ ] Take part in a SSiW group chat
--[ ] Learn the national anthem
--[ ] Volunteer at the National Eisteddfod 2019
+## Welsh Language 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+- [x] Complete Cwrs Mynediad  
+- [ ] Complete Cwrs Sylfaen  
+- [ ] Complete Duolingo tree
+- [x] SSiW Level 1
+- [ ] SSiW Level 2
+- [ ] SSiW Level 3
+- [ ] Read Sgŵp!
+- [ ] Take part in a SSiW group chat
+- [ ] Learn the national anthem
+- [ ] Volunteer at the National Eisteddfod 2019
 
 ## Other tracking
 * [Books I'm reading](https://www.goodreads.com/user/show/72020661-rhian)
@@ -75,11 +75,11 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 * [Knitting/Crochet](https://www.ravelry.com/projects/trianglegirl?set=&columns=&view=thumbnail&page=&sort=status%20completed_%20status_changed_&search=)
 
 ## Work
--[ ] Increase my presentations
--[ ] Set up R-Ladies
--[ ] Write more blog posts
--[ ] More RSS outreach
--[ ] Text based adventure to lear
+- [ ] Increase my presentations
+- [ ] Set up R-Ladies
+- [ ] Write more blog posts
+- [ ] More RSS outreach
+- [ ] Text based adventure to lear
 
 ## Geeky stuff to make
 
