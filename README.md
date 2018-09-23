@@ -1,42 +1,95 @@
-Personal Goals
+Personal Projects
 ==============
 
-Personal goals made open source.
+# What I'm focussing on now
+1. Running more -> That's Lyth
+2. Setting up R-Ladies Lancaster
+3. Using my Sports Centre membership
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Backlog
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+## Outdoors :bike:
 
-# November 00, 2014
+There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-deT4WcancZ6M&ll=54.419881467419216%2C-3.013386708398457&z=10) detailing my swims and bivvys.
 
-### This Week's Goal: Be Awesome.
+### Running 🏃‍♀️
 
-## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [] Run a 10k race
+- [ ] Run a half marathon
+- [x] Complete 5 different parkruns
+- [ ] Complete 10 different parkruns
+- [ ] Complete 50 parkruns
+- [ ] Complete 100 parkruns
+- [ ] Complete the Lonsdale Club Champs 2019
+- [ ] Complete an Ultra
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Cycling
+- [ ] Cross O'Greet Climb
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Swimming
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+-[ ] Complete the tadpole graham
+-[ ] Swim to Peel Island
+
+### Climbing
+
+-[x] Do a beginner climbing course
+-[x] Get gear for indoor climbing
+-[ ] Complete 20 indoor climbing sessions
+-[ ] Take a lead climbing course
+-[ ] Get gear for outdoor sport climbing
+-[ ] Complete 10 indoor leading sessions
+-[ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
+
+### Kayaking
+
+-[ ] Join Lancaster and District Canoe Club (May 2019)
+-[ ] Gear up
+-[ ] First solo kayak
+-[ ] Kayak overnight bivy
+
+### Travel/Adventure
+-[x] Isle of Man by bike/ferry
+-[x] Blackpool coast by bike/ferry
+-[ ] Netherlands by bike/ferry
+-[ ] Cycle to Llangwandl
+-[ ] Cycle tour of the highlands (Hebridean way?)
+-[ ] Campervan trip to France with bikes
+-[ ] Kayak around the coast of North Wales
+
+## Welsh Language
+-[x] Complete Cwrs Mynediad  
+-[ ] Complete Cwrs Sylfaen  
+-[ ] Complete Duolingo tree
+-[x] SSiW Level 1
+-[ ] SSiW Level 2
+-[ ] SSiW Level 3
+-[ ] Read Sgŵp!
+-[ ] Take part in a SSiW group chat
+-[ ] Learn the national anthem
+-[ ] Volunteer at the National Eisteddfod 2019
+
+## Other tracking
+* [Books I'm reading](https://www.goodreads.com/user/show/72020661-rhian)
+* Activities
+* [Knitting/Crochet](https://www.ravelry.com/projects/trianglegirl?set=&columns=&view=thumbnail&page=&sort=status%20completed_%20status_changed_&search=)
+
+## Work
+-[ ] Increase my presentations
+-[ ] Set up R-Ladies
+-[ ] Write more blog posts
+-[ ] More RSS outreach
+-[ ] Text based adventure to lear
+
+## Geeky stuff to make
+
+* Breakfast review website
+* Text based adventure where you learn about statistics
+* Interactive map of the top 100 climbs North West
+
+## Other documents to make
+
+* Work books to work through
+* Reading list?
+* Blog ideas
+* Presentation ideas
