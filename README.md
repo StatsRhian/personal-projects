@@ -85,6 +85,8 @@ Strength/yoga routine?
 - [ ] More RSS outreach
 - [ ] Text based adventure to learn statistics
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
+- [ ] Get a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
+- [ ] Submit RSS CPD draft
 
 ## Geeky stuff to make
 
