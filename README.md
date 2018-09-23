@@ -5,10 +5,11 @@ Personal Projects
 1. Running more -> That's Lyth
 2. Setting up R-Ladies Lancaster
 3. Using my Sports Centre membership
+4. Sorting through my work bookmarks and goals
 
 # Backlog
 
-## Outdoors :bike:
+## Outdoors :mountain:
 
 There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-deT4WcancZ6M&ll=54.419881467419216%2C-3.013386708398457&z=10) detailing my swims and bivvys.
 
@@ -23,10 +24,11 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete the Lonsdale Club Champs 2019
 - [ ] Complete an Ultra
 
-### Cycling
+### Cycling :bicyclist:
+
 - [ ] Cross O'Greet Climb
 
-### Swimming
+### Swimming :swimmer:
 
 - [ ] Complete the tadpole graham
 - [ ] Swim to Peel Island
@@ -48,6 +50,8 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] First solo kayak
 - [ ] Kayak overnight bivy
 
+Strength/yoga routine?
+
 ### Travel/Adventure
 - [x] Isle of Man by bike/ferry
 - [x] Blackpool coast by bike/ferry
@@ -57,7 +61,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Campervan trip to France with bikes
 - [ ] Kayak around the coast of North Wales
 
-## Welsh Language 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+## Welsh Language :green_book"
 - [x] Complete Cwrs Mynediad  
 - [ ] Complete Cwrs Sylfaen  
 - [ ] Complete Duolingo tree
@@ -75,7 +79,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 * [Knitting/Crochet](https://www.ravelry.com/projects/trianglegirl?set=&columns=&view=thumbnail&page=&sort=status%20completed_%20status_changed_&search=)
 
 ## Work
-- [ ] Increase my presentations
+- [ ] Increase my presentation portfolio on GitHub
 - [ ] Set up R-Ladies
 - [ ] Write more blog posts
 - [ ] More RSS outreach
