@@ -87,6 +87,7 @@ Strength/yoga routine?
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Get a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
 - [ ] Submit RSS CPD draft
+- [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
 
 ## Geeky stuff to make
 
