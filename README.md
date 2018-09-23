@@ -83,7 +83,8 @@ Strength/yoga routine?
 - [ ] Set up R-Ladies
 - [ ] Write more blog posts
 - [ ] More RSS outreach
-- [ ] Text based adventure to lear
+- [ ] Text based adventure to learn statistics
+- [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 
 ## Geeky stuff to make
 
