@@ -23,10 +23,17 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete 100 parkruns
 - [ ] Complete the Lonsdale Club Champs 2019
 - [ ] Complete an Ultra: [Go Far](http://www.gofar.org.uk/) and [Best Value](https://climbers.net/race/value-ultras.php)
+- [ ] Run the Kentmere Horseshoe
 
 ### Cycling :bicyclist:
 
 - [ ] Cross O'Greet Climb
+- [ ] Cycle tour from settle
+- [ ] MTB in the Yorkshire Dales
+- [ ] Cycle for breakfast at Morrisons Morecambe
+- [ ] Cycle for a pint at the Fleece Inn
+- [ ] Cycle for a pint at the FarmYard Tap
+- [ ] Cycle all of the west coast (in parts)
 
 ### Swimming :swimmer:
 
@@ -63,6 +70,7 @@ Strength/yoga routine?
 - [ ] NC500 by bicycle
 - [ ] Visit Galloway National Park Dark Skies :milky_way:
 - [ ] Stay over at Mosedale Bothy with James
+- [ ] Walk the pennine way (in parts)
 
 ## Welsh Language :green_book:
 - [x] Complete Cwrs Mynediad  
@@ -86,6 +94,7 @@ Strength/yoga routine?
 - [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
 - [ ] Tweet more
 - [ ] Set up R-Ladies
+- [ ] Write a recommendation for Emily
 - [ ] More RSS outreach
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Get a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
@@ -93,6 +102,23 @@ Strength/yoga routine?
 - [ ] Submit RSS CPD draft
 - [ ] STEM activity for data science and railways
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+
+
+## R Ladies
+- [ ] Write questionnaire
+- [ ] Recruit organisers
+- [ ] Decide on date of first event
+- [ ] Find a location
+- [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
+- [ ] Update my R Ladies profile
+- [ ] Contact local supporters
+      * Code up Lancaster
+      * Digital Lancashire
+      * UCUM
+      * UCLAN
+      * Lancaster departments
+      * Tatjana
+      * BAE
 
 ## Geeky stuff to make :rocket:
 
