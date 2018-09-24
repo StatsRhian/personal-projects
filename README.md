@@ -33,7 +33,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete the tadpole graham
 - [ ] Swim to Peel Island
 
-### Climbing
+### Climbing 🧗‍♀️
 
 - [x] Do a beginner climbing course
 - [x] Get gear for indoor climbing
@@ -43,7 +43,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete 10 indoor leading sessions
 - [ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
 
-### Kayaking
+### Kayaking :rowboat:
 
 - [ ] Join Lancaster and District Canoe Club (May 2019)
 - [ ] Gear up
@@ -52,7 +52,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 Strength/yoga routine?
 
-### Travel/Adventure
+### Travel/Adventure :sunrise_over_mountains:
 - [x] Isle of Man by bike/ferry
 - [x] Blackpool coast by bike/ferry
 - [ ] Netherlands by bike/ferry
@@ -78,7 +78,7 @@ Strength/yoga routine?
 * Activities
 * [Knitting/Crochet](https://www.ravelry.com/projects/trianglegirl?set=&columns=&view=thumbnail&page=&sort=status%20completed_%20status_changed_&search=)
 
-## Work
+## Work :bar_chart:
 - [ ] Increase my presentation portfolio on GitHub
 - [ ] Set up R-Ladies
 - [ ] Write more blog posts
@@ -89,7 +89,7 @@ Strength/yoga routine?
 - [ ] Submit RSS CPD draft
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
 
-## Geeky stuff to make
+## Geeky stuff to make :rocket:
 
 * Breakfast review website
 * Text based adventure where you learn about statistics
