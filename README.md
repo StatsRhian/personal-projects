@@ -33,7 +33,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Complete the tadpole graham
 - [ ] Swim to Peel Island
 
-### Climbing 🧗‍♀️
+### Climbing 🧗‍
 
 - [x] Do a beginner climbing course
 - [x] Get gear for indoor climbing
