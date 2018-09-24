@@ -9,3 +9,7 @@
 - [ ] Intro to dimension reduction
 - [ ] Intro to clustering
 - [ ] R for social scientists
+- [ ] Summary of PhD
+- [ ] Research past and present (Unilever/Arctic)
+- [ ] Maths and love slides
+- [ ] Materials for futurama group theory demo
