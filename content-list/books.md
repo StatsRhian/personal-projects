@@ -13,6 +13,7 @@
 - [ ] [Happy Git](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
 - [ ] [Deep Learning with R](https://blog.rstudio.com/2018/09/12/getting-started-with-deep-learning-in-r/)
 - [ ] [Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
+- [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
 
 
 ### Articles - things to learn
