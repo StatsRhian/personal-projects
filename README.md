@@ -80,24 +80,19 @@ Strength/yoga routine?
 
 ## Work :bar_chart:
 - [ ] Increase my presentation portfolio on GitHub
+- [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
+- [ ] Tweet more
 - [ ] Set up R-Ladies
-- [ ] Write more blog posts
 - [ ] More RSS outreach
-- [ ] Text based adventure to learn statistics
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Get a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
+- [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
 - [ ] Submit RSS CPD draft
+- [ ] STEM activity for data science and railways
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
 
 ## Geeky stuff to make :rocket:
 
-* Breakfast review website
-* Text based adventure where you learn about statistics
-* Interactive map of the top 100 climbs North West
-
-## Other documents to make
-
-* Work books to work through
-* Reading list?
-* Blog ideas
-* Presentation ideas
+- [x] Breakfast review website
+- [ ] Text based adventure where you learn about statistics
+- [ ] Interactive map of the top 100 climbs North West
