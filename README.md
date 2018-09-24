@@ -62,6 +62,7 @@ Strength/yoga routine?
 - [ ] Kayak around the coast of North Wales
 - [ ] NC500 by bicycle
 - [ ] Visit Galloway National Park Dark Skies :milky_way:
+- [ ] Stay over at Mosedale Bothy with James
 
 ## Welsh Language :green_book:
 - [x] Complete Cwrs Mynediad  
