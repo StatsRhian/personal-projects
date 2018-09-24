@@ -14,6 +14,7 @@
 - [ ] [Deep Learning with R](https://blog.rstudio.com/2018/09/12/getting-started-with-deep-learning-in-r/)
 - [ ] [Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 - [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
+- [ ] [Efficient R](https://csgillespie.github.io/efficientR/)
 
 
 ### Articles - things to learn
@@ -25,6 +26,7 @@
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [ ] [Data Science process](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/)
 - [ ] [Notebook war](https://yihui.name/en/2018/09/notebook-war/)
+- [ ] [Test that] (http://r-pkgs.had.co.nz/tests.html)
 - [ ] [Data Science and Statistics](https://www.youtube.com/watch?v=C1zMUjHOLr4)
 
 ### Technology to investiage
