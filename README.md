@@ -60,6 +60,8 @@ Strength/yoga routine?
 - [ ] Cycle tour of the highlands (Hebridean way?)
 - [ ] Campervan trip to France with bikes
 - [ ] Kayak around the coast of North Wales
+- [ ] NC500 by bicycle
+- [ ] Visit Galloway National Park Dark Skies :milky_way:
 
 ## Welsh Language :green_book:
 - [x] Complete Cwrs Mynediad  
