@@ -27,7 +27,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 ### Cycling :bicyclist:
 
-- [ ] Cross O'Greet Climb
+- [x] Cross O'Greet Climb
 - [ ] Cycle tour from settle
 - [ ] MTB in the Yorkshire Dales
 - [ ] Cycle for breakfast at Morrisons Morecambe
