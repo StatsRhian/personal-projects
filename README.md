@@ -4,8 +4,7 @@ Personal Projects
 # What I'm focussing on now
 1. Running more :arrow_right: [That's Lyth](https://www.ldwa.org.uk/Lakeland/W/3257/thats-lyth.html)
 2. Setting up R-Ladies Lancaster
-3. Using my Sports Centre membership
-4. Sorting through my work bookmarks and goals
+3. Applying for CStat status
 
 # Backlog
 
