@@ -31,7 +31,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] MTB in the Yorkshire Dales
 - [ ] Cycle for breakfast at Morrisons Morecambe
 - [ ] Cycle for a pint at the Fleece Inn
-- [ ] Cycle for a pint at the FarmYard Tap
+- [x] Cycle for a pint at the FarmYard Tap
 - [ ] Cycle all of the west coast (in parts)
 
 ### Swimming :swimmer:
@@ -90,10 +90,11 @@ Strength/yoga routine?
 
 ## Work :bar_chart:
 - [ ] Increase my presentation portfolio on GitHub
+- [ ] Apply for Expert Women 2018
 - [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
 - [ ] Tweet more
 - [ ] Set up R-Ladies
-- [ ] Write a recommendation for Emily
+- [ ] Write a recommendation for Emily and Damian
 - [ ] More RSS outreach
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Get a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
