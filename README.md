@@ -1,7 +1,7 @@
 Personal Projects
 ==============
 
-# What I'm focussing on in October  ::jack_o_lantern::
+# What I'm focussing on in October  :jack_o_lantern:
 1. Running more :arrow_right: [That's Lyth](https://www.ldwa.org.uk/Lakeland/W/3257/thats-lyth.html)
 2. Setting up R-Ladies Lancaster
 3. Applying for CStat status
