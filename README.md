@@ -6,14 +6,14 @@ Personal Projects
 2. Setting up R-Ladies Lancaster
 3. Applying for CStat status
 
-## Running More
+## Running More :running:
 - [x] Enter That's Lyth
 - [x] Decide on post-run excercises
 - [ ] Work towards 3 runs per week
 - [ ] Plan one long run (70min+) per week
 - [ ] Go on a recce of That's Lyth
 
-## R-ladies Lancaster
+## R-ladies Lancaster :woman: :computer:
 - [ ] Write questionnaire
 - [ ] Recruit organisers
 - [ ] Decide on date of first event
@@ -22,7 +22,7 @@ Personal Projects
 - [ ] Update my R Ladies profile
 - [ ] Contact local supporters
 
-Supporters to Contact:
+Supporters to Contact: :email:
 - [ ] Code up Lancaster
 - [ ] Digital Lancashire
 - [ ] UCUM
@@ -37,7 +37,7 @@ Supporters to Contact:
 - [ ] Maths and Stats
 - [ ] CEH
 
-## CStat Status
+## CStat Status :memo :star:
 - [ ] Review all previous activities
 - [ ] Populate with upcoming activities
 - [ ] Personal review of progress
