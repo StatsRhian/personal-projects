@@ -5,6 +5,7 @@ Personal Projects
 1. Running more :arrow_right: [That's Lyth](https://www.ldwa.org.uk/Lakeland/W/3257/thats-lyth.html)
 2. Setting up R-Ladies Lancaster
 3. Applying for CStat status
+4. Climbing
 
 ## Running More :running:
 - [x] Enter That's Lyth
@@ -38,6 +39,7 @@ Supporters to Contact: :email:
 - [ ] CEH
 
 ## CStat Status :memo: :star:
+- [ ] Update my C.V.
 - [ ] Review all previous activities
 - [ ] Populate with upcoming activities
 - [ ] Personal review of progress
@@ -45,3 +47,12 @@ Supporters to Contact: :email:
 - [ ] Request a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
 - [ ] Submit RSS CPD draft
 
+## Climbing 🧗‍
+
+- [x] Do a beginner climbing course
+- [x] Get gear for indoor climbing
+- [ ] Complete 20 indoor climbing sessions
+- [ ] Take a lead climbing course
+- [ ] Get gear for outdoor sport climbing
+- [ ] Complete 10 indoor leading sessions
+- [ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
