@@ -37,7 +37,7 @@ Supporters to Contact: :email:
 - [ ] Maths and Stats
 - [ ] CEH
 
-## CStat Status :memo :star:
+## CStat Status :memo: :star:
 - [ ] Review all previous activities
 - [ ] Populate with upcoming activities
 - [ ] Personal review of progress
