@@ -37,6 +37,7 @@ Supporters to Contact: :email:
 - [ ] DSI
 - [ ] Maths and Stats
 - [ ] CEH
+- [ ] LUComp
 
 ## CStat Status :memo: :star:
 - [ ] Update my C.V.
