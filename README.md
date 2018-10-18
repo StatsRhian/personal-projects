@@ -13,6 +13,7 @@ Personal Projects
 - [ ] Work towards 3 runs per week
 - [ ] Plan one long run (70min+) per week
 - [ ] Go on a recce of That's Lyth
+- [ ] Complete SAM Easy post-runs
 
 ## R-ladies Lancaster :woman: :computer:
 - [ ] Write questionnaire
