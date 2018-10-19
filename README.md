@@ -6,6 +6,7 @@ Personal Projects
 2. Setting up R-Ladies Lancaster
 3. Applying for CStat status
 4. Climbing
+5. New house :house_with_garden:
 
 ## Running More :running:
 - [x] Enter That's Lyth
