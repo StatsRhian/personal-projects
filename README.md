@@ -17,7 +17,7 @@ Personal Projects
 - [ ] Complete SAM Easy post-runs
 
 ## R-ladies Lancaster :woman: :computer:
-- [ ] Write questionnaire
+- [x] Write questionnaire
 - [ ] Recruit organisers
 - [ ] Decide on date of first event
 - [ ] Find a location
@@ -35,7 +35,7 @@ Supporters to Contact: :email:
 - [ ] BAE
 - [ ] LEC - Ask Ann
 - [ ] Women@Infolab
-- [ ] STOR-i
+- [x] STOR-i
 - [ ] DSI
 - [ ] Maths and Stats
 - [ ] CEH
