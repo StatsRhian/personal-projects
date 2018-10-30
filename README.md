@@ -25,6 +25,7 @@ Personal Projects
 - [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
 - [ ] Update my R Ladies profile
 - [ ] Contact local supporters
+- [ ] Order stickers
 
 Supporters to Contact: :email:
 - [ ] Code up Lancaster
