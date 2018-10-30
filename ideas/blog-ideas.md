@@ -12,4 +12,5 @@
 - [ ] Introducing R Ladies Lancaster
 - [ ] Docker with R integration
 - [ ] Converting R to Json and API posting
+- [ ] Analysis of my experience with twitter hate bubbles
 
