@@ -1,6 +1,6 @@
 ## Blog ideas
 
-- [ ] My female role models
+- [ ] My female role models (Hannah Fry)
 - [ ] Thoughts on OR60
 - [ ] North West cycling climbs
 - [ ] Leaves on the line
@@ -13,4 +13,4 @@
 - [ ] Docker with R integration
 - [ ] Converting R to Json and API posting
 - [ ] Analysis of my experience with twitter hate bubbles
-
+- [ ] My histoRy with R
