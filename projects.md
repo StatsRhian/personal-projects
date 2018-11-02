@@ -77,6 +77,8 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
 - [ ] Tweet more
 - [ ] Write a recommendation for Emily and Damian
+- [ ] Write a package
+- [ ] Become an editor for[ROpenSci](https://ropensci.org/onboarding/)
 - [ ] More RSS outreach
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
