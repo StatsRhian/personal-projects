@@ -12,3 +12,4 @@
 * DfT Academic discussion (22/11/18) – all day
 * Manchester UserR (22/11/18) – inc tutorial
 * MancML
+* Continuing professional development – how to make it effective (1 hour)
