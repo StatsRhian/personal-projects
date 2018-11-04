@@ -4,7 +4,9 @@
 
 There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-deT4WcancZ6M&ll=54.419881467419216%2C-3.013386708398457&z=10) detailing my swims and bivvys.
 
-### Running 🏃‍♀️
+### Running 🏃
+♀️
+
 
 - [ ] Run a 10k race
 - [ ] Run a half marathon
@@ -30,6 +32,16 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 - [ ] Complete the tadpole graham
 - [ ] Swim to Peel Island
+
+## Climbing 🧗
+
+- [x] Do a beginner climbing course
+- [x] Get gear for indoor climbing
+- [ ] Complete 20 indoor climbing sessions
+- [ ] Take a lead climbing course
+- [ ] Get gear for outdoor sport climbing
+- [ ] Complete 10 indoor leading sessions
+- [ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
 
 ### Kayaking :rowboat:
 

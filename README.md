@@ -2,30 +2,23 @@ Personal Projects
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ==============
 
-# What I'm focussing on in October  :jack_o_lantern:
-1. Running more :arrow_right: [That's Lyth](https://www.ldwa.org.uk/Lakeland/W/3257/thats-lyth.html)
-2. Setting up R-Ladies Lancaster
-3. Applying for CStat status
-4. Climbing
-5. New house :house_with_garden:
+# What I'm focussing on in November  :fireworks:
 
-## Running More :running:
-- [x] Enter That's Lyth
-- [x] Decide on post-run excercises
-- [ ] Work towards 3 runs per week
-- [ ] Plan one long run (70min+) per week
-- [ ] Go on a recce of That's Lyth
-- [ ] Complete SAM Easy post-runs
+1. Setting up R-Ladies Lancaster
+2. Applying for CStat status
+3. Climbing
+4. Buying a house :house_with_garden:
 
 ## R-ladies Lancaster :woman: :computer:
 - [x] Write questionnaire
 - [ ] Recruit organisers
 - [ ] Decide on date of first event
-- [ ] Find a location
+- [ ] Find a location (Ask Mark about the Borough)
 - [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
-- [ ] Update my R Ladies profile
-- [ ] Contact local supporters
+- [x] Update my R Ladies profile
 - [ ] Order stickers
+- [ ] Order biscuit cutter
+- [ ] Invite speakers
 
 Supporters to Contact: :email:
 - [ ] Code up Lancaster
@@ -37,7 +30,7 @@ Supporters to Contact: :email:
 - [ ] BAE
 - [ ] LEC - Ask Ann
 - [ ] Women@Infolab
-- [x] STOR-i
+- [ ] STOR-i
 - [ ] DSI
 - [ ] Maths and Stats
 - [ ] CEH
@@ -52,12 +45,8 @@ Supporters to Contact: :email:
 - [ ] Request a [mentor](http://www.rss.org.uk/RSS/pro_dev/pro_awards/gradstat/Mentoring_scheme/RSS/pro_dev/pro_awards/Graduate_statistician/Mentoring_scheme_for_Graduate_Statisticians/Mentoring_scheme_for_Graduate_Statisticians.aspx?hkey=04932061-8407-4068-9623-6bb699e6a2d9)
 - [ ] Submit RSS CPD draft
 
-## Climbing 🧗‍
+## Climbing 🧗
 
-- [x] Do a beginner climbing course
-- [x] Get gear for indoor climbing
-- [ ] Complete 20 indoor climbing sessions
+- [ ] Complete all the V2s in the November bouldering cave
+- [ ] Complete 10 climbing sessions [1]
 - [ ] Take a lead climbing course
-- [ ] Get gear for outdoor sport climbing
-- [ ] Complete 10 indoor leading sessions
-- [ ] Climb outdoors at [Castleberg crags](https://www.ukclimbing.com/logbook/crag.php?id=10441)
