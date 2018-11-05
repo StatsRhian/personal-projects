@@ -13,7 +13,8 @@ Personal Projects
 - [x] Write questionnaire
 - [ ] Recruit organisers
 - [ ] Decide on date of first event
-- [ ] Find a location (Ask Mark about the Borough)
+- [x] Ask Mark about the Borough
+- [ ] Find a location 
 - [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
 - [x] Update my R Ladies profile
 - [ ] Order stickers
