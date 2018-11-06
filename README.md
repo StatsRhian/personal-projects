@@ -48,6 +48,6 @@ Supporters to Contact: :email:
 
 ## Climbing 🧗
 
-- [ ] Complete all the V2s in the November bouldering cave
+- [ ] Complete all 7 V2s in the November bouldering cave
 - [ ] Complete 10 climbing sessions [1]
 - [ ] Take a lead climbing course
