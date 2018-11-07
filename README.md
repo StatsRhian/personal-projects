@@ -18,7 +18,7 @@ Personal Projects
 - [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
 - [x] Update my R Ladies profile
 - [ ] Order stickers
-- [ ] Order biscuit cutter
+- [x] Order biscuit cutter
 - [ ] Invite speakers
 
 Supporters to Contact: :email:
