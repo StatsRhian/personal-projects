@@ -38,7 +38,7 @@ Supporters to Contact: :email:
 - [ ] LUComp
 
 ## CStat Status :memo: :star:
-- [ ] Update my C.V.
+- [x] Update my C.V.
 - [ ] Review all previous activities
 - [ ] Populate with upcoming activities
 - [ ] Personal review of progress
