@@ -5,8 +5,6 @@
 There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-deT4WcancZ6M&ll=54.419881467419216%2C-3.013386708398457&z=10) detailing my swims and bivvys.
 
 ### Running 🏃
-♀️
-
 
 - [ ] Run a 10k race
 - [ ] Run a half marathon
@@ -37,7 +35,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 - [x] Do a beginner climbing course
 - [x] Get gear for indoor climbing
-- [ ] Complete 20 indoor climbing sessions
+- [x] Complete 20 indoor climbing sessions
 - [ ] Take a lead climbing course
 - [ ] Get gear for outdoor sport climbing
 - [ ] Complete 10 indoor leading sessions
@@ -90,7 +88,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Tweet more
 - [ ] Write a recommendation for Emily and Damian
 - [ ] Write a package
-- [ ] Become an editor for[ROpenSci](https://ropensci.org/onboarding/)
+- [ ] Become an editor for [ROpenSci](https://ropensci.org/onboarding/)
 - [ ] More RSS outreach
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
