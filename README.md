@@ -5,9 +5,7 @@ Personal Projects
 # What I'm focussing on in December :christmas_tree:
 
 1. Running Everyday :runner:
-
 2. Writing talk for Florence Nightingale Day
-
 3. Preparing for R-Ladies in January
 
 ## Running Everyday #AR :runner:
