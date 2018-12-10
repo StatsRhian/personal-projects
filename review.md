@@ -8,8 +8,6 @@
 # November 2018 :fireworks:
 
 1. Setting up R-Ladies Lancaster.
-    Made a good start by making the questionnaire, and advertising the event. Got overwhelmed with other work.
-In December I will contact the organisers, choose a date in Jan, and kick it off fully in January. 
 2. Applying for CStat status
 3. Climbing
 4. Buying a house :house_with_garden:
