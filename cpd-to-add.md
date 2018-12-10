@@ -9,6 +9,16 @@
 - [x] Imeche talk (23/10/18) Presentation (3 hours)
 - [x] Lancaster Data Science (30/10/18) (3 hours)
 - [x] North West R meetup (31/10/18) – all day
-- [ ] Manchester UserR (22/11/18) – inc tutorial
-- [ ] Manc ML
-- [ ]  Continuing professional development – how to make it effective (1 hour)
+- [x] Continuing professional development – how to make it effective (1 hour)
+- [ ] Add RSS Lancashire: http://www.rss-lancashire.org.uk/events
+- [ ] Add PSF events (including watching videos for self learning)
+- [ ] August 2016 Edinburgh ML
+- [ ] May 2016 RSS ambassador
+- [ ] Add in work based learning through Arctic Shores
+- [ ] Record my learning (Hadley books)
+- [ ] Add RSS ambassador Panorama activity
+- [ ] RSS Fact checking
+- [ ] Mango Data science radar
+- [ ] Data science RSS video 
+- [ ] Office hours - R4DS
+- [ ] STEM activities?
