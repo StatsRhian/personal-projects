@@ -12,6 +12,7 @@
 3. Climbing
 4. Buying a house :house_with_garden:
 
+
 1. Made a good start by making the questionnaire, and advertising the event. Got overwhelmed with other work.
 In December I will contact the organisers, choose a date in Jan, and kick it off fully in January. 
 2. Applying for CStat status. Spent one afternoon updating my CPD. This is a job for January
