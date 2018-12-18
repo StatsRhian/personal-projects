@@ -10,11 +10,11 @@ Personal Projects
 
 ## Running Everyday #AR :runner:
  - [ ] Do at least one recee of That's Lyth
- - [ ] Complete Advent Running [14/25]
+ - [ ] Complete Advent Running [17/25]
  
 ## Florence Nightingale Day
-- [ ] Decide on potential ideas
-- [ ] Finalise blurb and e-mail to Nadida
+- [x] Decide on potential ideas
+- [x] Finalise blurb and e-mail to Nadida
 - [ ] Write slides
 - [ ] Upload to Github
 
