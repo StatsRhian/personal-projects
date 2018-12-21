@@ -10,7 +10,7 @@ Personal Projects
 
 ## Running Everyday #AR :runner:
  - [ ] Do at least one recee of That's Lyth
- - [ ] Complete Advent Running [17/25]
+ - [ ] Complete Advent Running [21/25]
  
 ## Florence Nightingale Day
 - [x] Decide on potential ideas
