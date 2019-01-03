@@ -1,9 +1,15 @@
-
+# January 2019 
 # December 2018 :christmas_tree:
 
 1. Running Everyday :runner:
 2. Writing talk for Florence Nightingale Day
 3. Preparing for R-Ladies in January
+
+---
+1.
+2.
+3.
+
 ---
 # November 2018 :fireworks:
 
