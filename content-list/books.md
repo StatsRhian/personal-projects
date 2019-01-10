@@ -26,9 +26,21 @@
 - [ ] [Learn Git Branching](https://learngitbranching.js.org/)
 - [ ] [Data Science process](https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/)
 - [ ] [Notebook war](https://yihui.name/en/2018/09/notebook-war/)
+<<<<<<< HEAD
 - [ ] [Test that] (http://r-pkgs.had.co.nz/tests.html)
 - [ ] [Data Science and Statistics](https://www.youtube.com/watch?v=C1zMUjHOLr4)
 
 ### Technology to investiage
 
 -[ ] [Apache Nifi](https://nifi.apache.org/)
+=======
+- [ ] [Test that](http://r-pkgs.had.co.nz/tests.html)
+- [ ] [rrtools](https://annakrystalli.me/rrtools-repro-research/intro.html)
+- [ ] [Shiny Test](https://github.com/rstudio/shinytest)
+- [ ] [Shiny LP](https://github.com/jasdumas/shinyLP)
+- [ ] [Data Science and Statistics](https://www.youtube.com/watch?v=C1zMUjHOLr4)
+
+### Technology to investiage
+
+- [ ] [Apache Nifi](https://nifi.apache.org/)
+>>>>>>> branch 'master' of https://github.com/trianglegirl/personal-projects
