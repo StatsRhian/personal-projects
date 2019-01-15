@@ -94,6 +94,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
 - [ ] STEM activity for data science and railways
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+- [ ] Enter the RSS Young writer competition
 
 ## Geeky stuff to make :rocket:
 
