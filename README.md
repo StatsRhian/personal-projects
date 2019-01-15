@@ -12,8 +12,9 @@ Personal Projects
 2. CPD Development Plan :green_book:
 - [ ] Work out what skills I need to develop
 - [ ] Plan out CPD activities for 2019
+- [ ] Update GitHub Professional Activities repo
 
-3. Get cycle fit :bicycle:
+3. Get cycle fit :bike:
 
 - [ ] Cycle once a week
 - [ ] Clean and service bikes
