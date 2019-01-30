@@ -1,5 +1,25 @@
 # Backlog of projects
 
+## Work :bar_chart:
+- [ ] Increase my presentation portfolio on GitHub
+- [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
+- [ ] Tweet more R tips
+- [ ] Write a recommendation for Emily and Damian
+- [ ] Become an editor for [ROpenSci](https://ropensci.org/onboarding/)
+- [ ] More RSS outreach
+- [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
+- [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
+- [ ] STEM activity for data science and railways
+- [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+- [ ] Enter the RSS Young writer competition
+
+## Geeky stuff to make :rocket:
+
+- [x] Breakfast review website
+- [ ] Text based adventure where you learn about statistics
+- [ ] Interactive map of the top 100 climbs North West
+- [ ] Shiny app exploring offcom swearing data
+
 ## Outdoors :mountain:
 
 There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-deT4WcancZ6M&ll=54.419881467419216%2C-3.013386708398457&z=10) detailing my swims and bivvys.
@@ -82,23 +102,3 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 * Activities
 * [Knitting/Crochet](https://www.ravelry.com/projects/trianglegirl?set=&columns=&view=thumbnail&page=&sort=status%20completed_%20status_changed_&search=)
 
-## Work :bar_chart:
-- [ ] Increase my presentation portfolio on GitHub
-- [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
-- [ ] Tweet more
-- [ ] Write a recommendation for Emily and Damian
-- [ ] Write a package
-- [ ] Become an editor for [ROpenSci](https://ropensci.org/onboarding/)
-- [ ] More RSS outreach
-- [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
-- [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
-- [ ] STEM activity for data science and railways
-- [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
-- [ ] Enter the RSS Young writer competition
-
-## Geeky stuff to make :rocket:
-
-- [x] Breakfast review website
-- [ ] Text based adventure where you learn about statistics
-- [ ] Interactive map of the top 100 climbs North West
-- [ ] Shiny app exploring offcom swearing data
