@@ -7,7 +7,7 @@ Personal Projects
 1. That's Lyth :runner:
 - [x] Recce the route at least twice
 - [ ] Make running a habbit (3-4 times per week)
-- [ ] Complete that's Lyth
+- [x] Complete that's Lyth
 
 2. CPD Development Plan :green_book:
 - [ ] Work out what skills I need to develop
@@ -20,5 +20,5 @@ Personal Projects
 - [ ] Clean and service bikes
 - [ ] Cycle to Golden Ball :beer:
 - [ ] Get some of the missing tiles (Morecambe or Dolphinholme)
-- [ ] Blog about cycle tiles
+- [x] Blog about cycle tiles
 
