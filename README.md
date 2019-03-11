@@ -4,6 +4,6 @@ Personal Projects
 
 # What I'm focussing on in March 2019 :tulip:
 
-1. 
+1. Set up home office and prep for starting at Jumping Rivers
 2. Plan R-Ladies Lancaster launch event
 3.
