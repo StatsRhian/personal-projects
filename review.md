@@ -6,7 +6,7 @@
 
 ---
 
-# February 2019 :house:
+# February 2019 :house_with_garden:
 
 February was pretty hectic, to the point where I didn't even get around to setting any goals. 
 However, we did manage to move house and I got a new job so it was pretty successful!
