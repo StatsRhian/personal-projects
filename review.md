@@ -1,11 +1,27 @@
-# January 2019 :green_book:
+# March 2019 :tulip:
 
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 ---
 
+# February 2019 :house:
+
+February was pretty hectic, to the point where I didn't even get around to setting any goals. 
+However, we did manage to move house and I got a new job so it was pretty successful!
+
+# January 2019 :green_book:
+
+1. That's Lyth :runner:
+2. CPD Development Plan :green_book:
+3. Get cycle fit :bike:
+
+---
+
+1. This was a great success. We managed two recees, the race day went brilliantly and I got around in 5:59.
+2. I didn't do any CPD development. Now that I'm moving jobs, I'll push this to May
+3. We got out a decent amount on the bike, but some more rides and maintainance required.
 
 # December 2018 :christmas_tree:
 
@@ -14,9 +30,10 @@
 3. Preparing for R-Ladies in January
 
 ---
-1.
-2.
-3.
+
+1. Success! I ran all 25 days, totally 120km.
+2. This went well, although I ended up writing the majority of it in January...
+3. This has not happened again. I think I need to just book in a date.
 
 ---
 # November 2018 :fireworks:
