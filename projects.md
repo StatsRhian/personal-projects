@@ -4,14 +4,14 @@
 - [ ] Increase my presentation portfolio on GitHub
 - [ ] [Blog](https://github.com/trianglegirl/personal-projects/blob/master/ideas/blog-ideas.md) once every fortnight
 - [ ] Tweet more R tips
-- [ ] Write a recommendation for Emily and Damian
+- [ ] Write a recommendation for Emily, Damian and Callum
 - [ ] Become an editor for [ROpenSci](https://ropensci.org/onboarding/)
 - [ ] More RSS outreach
 - [ ] Write an article for [Significance](https://www.significancemagazine.com/contribute)
 - [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
-- [ ] STEM activity for data science and railways
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
 - [ ] Enter the RSS Young writer competition
+- [ ] Make my C.V. in pagedown
 
 ## Geeky stuff to make :rocket:
 
