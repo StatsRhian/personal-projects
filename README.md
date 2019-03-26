@@ -4,7 +4,7 @@ Personal Projects
 
 # What I'm focussing on in March 2019 :tulip:
 
-1. Set up home office and prep for starting at Jumping Rivers ::computer:
+1. Set up home office and prep for starting at Jumping Rivers :computer:
  - [ ] Buy chair 
  - [x] Buy desk
  - [x] Buy keyboard
