@@ -5,5 +5,9 @@ Personal Projects
 # What I'm focussing on in March 2019 :tulip:
 
 1. Set up home office and prep for starting at Jumping Rivers
+ - [ ] Buy chair 
+ - [x] Buy desk
+ - [x] Buy keyboard
+ - [x] Send an application to EARL
 2. Plan R-Ladies Lancaster launch event
-3.
+3. Preparing for Blackburn Symphony Orchestra concerts
