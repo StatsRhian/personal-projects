@@ -25,23 +25,7 @@ Personal Projects
 - [ ] Order stickers
 - [ ] Update Meetup
 - [ ] Make a social media poster
-
-Supporters to Contact:
-
-- [ ] Code up Lancaster
-- [ ] Digital Lancashire
-- [ ] UCUM
-- [ ] UCLAN
-- [ ] Lancaster departments
-- [ ] Tatjana
-- [ ] BAE
-- [ ] LEC - Ask Ann
-- [ ] Women@Infolab
-- [ ] STOR-i
-- [ ] DSI
-- [ ] Maths and Stats
-- [ ] CEH
-- [ ] LUComp
+- [ ] Advertise to supporters
 
 3. Preparing for Blackburn Symphony Orchestra concerts :musical_note:
  - [x] Collect cymbals
