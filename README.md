@@ -8,12 +8,11 @@ Personal Projects
  - [ ] Buy chair 
  - [x] Buy desk
  - [x] Buy keyboard
- - [ ] Send an application to EARL
+ - [x] Send an application to EARL
  
 2. Plan R-Ladies Lancaster launch event :purple_heart:
 - [x] Write questionnaire
-- [x] Recruit organisers (Lucy, Nic)
-- [ ] Invite organsiers to RLadies Slack
+- [x] Recruit organisers (Lucy, Nic, Jamie-Leigh)
 - [x] Decide on date of first event May 31st
 - [x] Ask Mark about the Borough
 - [x] Find a location (Lancaster University)
@@ -21,14 +20,14 @@ Personal Projects
 - [ ] Ask permission to use Lancaster University
 - [ ] Book room
 - [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
-- [ ] Update my R Ladies profile
+- [x] Update my R Ladies profile
 - [ ] Order stickers
-- [ ] Update Meetup
-- [ ] Make a social media poster
+- [x] Update Meetup
+- [x] Make a social media poster
 - [ ] Advertise to supporters
 
 3. Preparing for Blackburn Symphony Orchestra concerts :musical_note:
  - [x] Collect cymbals
  - [ ] Assign parts for Summer concert
  - [x] Sale gig
- - [ ] Blackburn gig
+ - [x] Blackburn gig
