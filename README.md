@@ -2,32 +2,25 @@ Personal Projects
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ==============
 
-# What I'm focussing on in March 2019 :tulip:
+# What I'm focussing on in April 2019 :tulip:
 
-1. Set up home office and prep for starting at Jumping Rivers :computer:
- - [ ] Buy chair 
- - [x] Buy desk
- - [x] Buy keyboard
- - [x] Send an application to EARL
- 
-2. Plan R-Ladies Lancaster launch event :purple_heart:
-- [x] Write questionnaire
-- [x] Recruit organisers (Lucy, Nic, Jamie-Leigh)
-- [x] Decide on date of first event May 31st
-- [x] Ask Mark about the Borough
-- [x] Find a location (Lancaster University)
-- [ ] Find three speakers
-- [ ] Ask permission to use Lancaster University
-- [ ] Book room
-- [ ] Sponser for pizza (Joe at https://www.h2o.ai/)
-- [x] Update my R Ladies profile
-- [ ] Order stickers
-- [x] Update Meetup
-- [x] Make a social media poster
-- [ ] Advertise to supporters
+1. Healthy lifestyle :pear:
+- [ ] Log food with YouAte
+- [ ] Three runs per week [ ] [ ] [ ] [ ]
+- [ ] Schedule excerise in calendar
+- [ ] Yoga once per week
 
-3. Preparing for Blackburn Symphony Orchestra concerts :musical_note:
- - [x] Collect cymbals
- - [ ] Assign parts for Summer concert
- - [x] Sale gig
- - [x] Blackburn gig
+2. Sewing :scissors:
+- [ ] Order fabric for another DDplantain
+- [ ] Order fabric for Roscoe Blouse
+- [ ] Sew a peg bag
+- [ ] Sew the Monetta
+- [ ] Plan Jame's waistcoat
+- [ ] Make paper patterns
+
+3. R-Ladies :purple_heart:
+- [ ] Confirm talks
+- [ ] Find pizza sponsor
+- [ ] Book a room
+- [ ] Advertise
+- [ ] Bake cookies
