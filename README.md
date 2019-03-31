@@ -8,7 +8,7 @@ Personal Projects
 - [ ] Log food with YouAte
 - [ ] Three runs per week [0/4]
 - [ ] Schedule excerise in calendar
-- [ ] Yoga once per week
+- [ ] Yoga once per week [0/4]
 
 2. Sewing :scissors:
 - [ ] Order fabric for another DDplantain
@@ -20,7 +20,7 @@ Personal Projects
 
 3. R-Ladies :purple_heart:
 - [ ] Confirm talks
-- [ ] Find pizza sponsor
+- [x] Find pizza sponsor
 - [ ] Book a room
 - [ ] Advertise
 - [ ] Bake cookies
