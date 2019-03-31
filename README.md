@@ -6,7 +6,7 @@ Personal Projects
 
 1. Healthy lifestyle :pear:
 - [ ] Log food with YouAte
-- [ ] Three runs per week - [ ]- [ ]- [ ]- [ ]
+- [ ] Three runs per week - [ ] - [ ] - [ ] - [ ]
 - [ ] Schedule excerise in calendar
 - [ ] Yoga once per week
 
