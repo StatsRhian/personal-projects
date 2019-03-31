@@ -1,16 +1,14 @@
 # March 2019 :tulip:
 
 1. Set up home office and prep for starting at Jumping Rivers computer
-
-Office is all set up and I'm super excited to start at Jumping Rivers
-
 2. Plan R-Ladies Lancaster launch event purple_heart
-
-R-Ladies got in touch, and that gave me the boost I needed to get the event booked in
-
 3. Preparing for Blackburn Symphony Orchestra concerts musical_note
 
-The concerts went well, althought I haven't planned out the BSO summer gig
+---
+
+1. Office is all set up and I'm super excited to start at Jumping Rivers
+2. R-Ladies got in touch, and that gave me the boost I needed to get the event booked in
+3. Concerts went well, althought I haven't planned out the BSO summer gig
 
 ---
 
