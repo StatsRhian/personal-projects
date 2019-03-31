@@ -1,8 +1,14 @@
 # March 2019 :tulip:
 
-1. 
-2. 
-3. 
+1. Set up home office and prep for starting at Jumping Rivers computer
+2. Plan R-Ladies Lancaster launch event purple_heart
+3. Preparing for Blackburn Symphony Orchestra concerts musical_note
+
+---
+
+1. Office is all set up and I'm super excited to start at Jumping Rivers
+2. R-Ladies got in touch, and that gave me the boost I needed to get the event booked in
+3. Concerts went well, althought I haven't planned out the BSO summer gig
 
 ---
 
@@ -20,7 +26,7 @@ However, we did manage to move house and I got a new job so it was pretty succes
 ---
 
 1. This was a great success. We managed two recees, the race day went brilliantly and I got around in 5:59.
-2. I didn't do any CPD development. Now that I'm moving jobs, I'll push this to May
+2. I didn't do any CPD development. Now that I'm moving jobs, I'll push this to May.
 3. We got out a decent amount on the bike, but some more rides and maintainance required.
 
 # December 2018 :christmas_tree:
