@@ -4,8 +4,6 @@
 2. Plan R-Ladies Lancaster launch event purple_heart
 3. Preparing for Blackburn Symphony Orchestra concerts musical_note
 
----
-
 1. Office is all set up and I'm super excited to start at Jumping Rivers
 2. R-Ladies got in touch, and that gave me the boost I needed to get the event booked in
 3. Concerts went well, althought I haven't planned out the BSO summer gig
