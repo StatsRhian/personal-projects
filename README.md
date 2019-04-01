@@ -7,8 +7,9 @@ Personal Projects
 1. Healthy lifestyle :pear:
 - [ ] Log food with YouAte
 - [ ] Three runs per week [0/4]
-- [ ] Schedule excerise in calendar
 - [ ] Yoga once per week [0/4]
+- [ ] Schedule excerise in my calendar
+- [ ] Wear my activity watch regularly
 
 2. Sewing :scissors:
 - [ ] Order fabric for another DDplantain
