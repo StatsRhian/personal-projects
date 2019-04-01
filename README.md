@@ -15,7 +15,7 @@ Personal Projects
 - [ ] Order fabric for Roscoe Blouse
 - [ ] Sew a peg bag
 - [ ] Sew the Monetta
-- [ ] Plan Jame's waistcoat
+- [ ] Plan James's waistcoat
 - [ ] Make paper patterns
 
 3. R-Ladies :purple_heart:
