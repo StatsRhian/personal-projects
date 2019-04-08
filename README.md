@@ -22,6 +22,6 @@ Personal Projects
 3. R-Ladies :purple_heart:
 - [ ] Confirm talks
 - [x] Find pizza sponsor
-- [ ] Book a room
+- [x] Book a room
 - [ ] Advertise
 - [ ] Bake cookies
