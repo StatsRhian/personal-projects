@@ -19,6 +19,8 @@
 - [ ] Text based adventure where you learn about statistics
 - [ ] Interactive map of the top 100 climbs North West
 - [ ] Shiny app exploring offcom swearing data
+- [ ] Map of Bob Graham (Leaflet)
+- [ ] Put my thesis on bookdown
 
 ## Outdoors :mountain:
 
