@@ -5,7 +5,7 @@ Personal Projects
 # What I'm focussing on in April 2019 :seedling:
 
 1. Healthy lifestyle :pear:
-- [ ] Log food with YouAte
+- [x] Log food with YouAte
 - [ ] Three runs per week [0/4]
 - [ ] Yoga once per week [0/4]
 - [ ] Schedule excerise in my calendar
@@ -14,7 +14,7 @@ Personal Projects
 2. Sewing :scissors:
 - [ ] Order fabric for another DDplantain
 - [ ] Order fabric for Roscoe Blouse
-- [ ] Sew a peg bag
+- [x] Sew a peg bag
 - [ ] Sew the Monetta
 - [ ] Plan James's waistcoat
 - [ ] Make paper patterns
