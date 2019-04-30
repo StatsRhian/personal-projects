@@ -12,9 +12,9 @@
 
 # March 2019 :tulip:
 
-1. Set up home office and prep for starting at Jumping Rivers computer
-2. Plan R-Ladies Lancaster launch event purple_heart
-3. Preparing for Blackburn Symphony Orchestra concerts musical_note
+1. Set up home office and prep for starting at Jumping Rivers :computer:
+2. Plan R-Ladies Lancaster launch event :purple_heart:
+3. Preparing for Blackburn Symphony Orchestra concerts :musical_note:
 
 ---
 
