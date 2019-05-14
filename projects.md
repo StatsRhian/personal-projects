@@ -21,6 +21,7 @@
 - [ ] Shiny app exploring offcom swearing data
 - [ ] Map of Bob Graham (Leaflet)
 - [ ] Put my thesis on bookdown
+- [ ] Personal finances shiny app
 
 ## Outdoors :mountain:
 
@@ -65,7 +66,7 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 
 ### Kayaking :rowboat:
 
-- [ ] Join Lancaster and District Canoe Club (May 2019)
+- [x] Join Lancaster and District Canoe Club (May 2019)
 - [ ] Gear up
 - [ ] First solo kayak
 - [ ] Kayak overnight bivy
