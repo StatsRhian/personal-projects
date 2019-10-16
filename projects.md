@@ -11,7 +11,7 @@
 - [ ] Create a [personal R package](https://hilaryparker.com/2013/04/03/personal-r-packages/)
 - [ ] Create a Digital Rail [colour pallete](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
 - [ ] Enter the RSS Young writer competition
-- [ ] Make my C.V. in pagedown
+- [x] Make my C.V. in pagedown
 
 ## Geeky stuff to make :rocket:
 
