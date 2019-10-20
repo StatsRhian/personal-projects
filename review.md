@@ -1,3 +1,17 @@
+# November 2019
+
+1. Running regularly :running_woman:
+2. Improve kayaking :canoe:
+3. Eat well :apple:
+
+------
+
+1.
+
+2.
+
+3.
+
 # April 2019 :seedling:
 
 1. Healthy lifestyle :pear:
@@ -6,9 +20,9 @@
 
 ---
 
-1.
-2.
-3.
+1. I logged my food and wore my watch, but didn't manage to regularly exercise.
+2. I sewed the second DDplantain, Monetta and peg bag.
+3. R-Ladies started and is still going well
 
 # March 2019 :tulip:
 
