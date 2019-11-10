@@ -4,8 +4,6 @@ Personal Projects
 
 # What I'm focusing on in November 2019 :fireworks:
 
-
-
 1. Running regularly :running_woman:
 2. Improve kayaking :canoe:
 3. Eat well :apple:
@@ -19,9 +17,9 @@ Personal Projects
 
 ## Improve kayaking :canoe:
 
-- [ ] Make as many Saturdays as possible [0/3]
+- [ ] Make as many Saturdays as possible [1/3]
 - [ ] Research dry suits
-- [ ] Order a helmet
+- [x] Order a helmet
 - [ ] Fix roof rack to Bongo
 
 ## Eat well :apple:
