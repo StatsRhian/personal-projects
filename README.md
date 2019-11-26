@@ -10,15 +10,15 @@ Personal Projects
 
 ## Running regularly :running_woman:
 
-- [ ] Plan running routes
+- [x] Plan running routes
 - [ ] Run three times per week [0/4]
 - [ ] Mark runs in my calendar
 - [ ] Go on a Farleton run with Lonsdale
 
 ## Improve kayaking :canoe:
 
-- [ ] Make as many Saturdays as possible [1/3]
-- [ ] Research dry suits
+- [ ] Make as many Saturdays as possible [2/3]
+- [x] Research dry suits
 - [x] Order a helmet
 - [ ] Fix roof rack to Bongo
 
