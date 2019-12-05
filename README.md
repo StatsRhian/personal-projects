@@ -17,7 +17,7 @@ Personal Projects
 
 ## Improve kayaking :canoe:
 
-- [ ] Make as many Saturdays as possible [2/3]
+- [x] Make as many Saturdays as possible [3/3]
 - [x] Research dry suits
 - [x] Order a helmet
 - [ ] Fix roof rack to Bongo
