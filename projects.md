@@ -27,16 +27,16 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 ## Kayaking :rowboat:
 
 - [x] Join Lancaster and District Canoe Club (May 2019)
-- [ ] Attach roof bars to van
-- [ ] Gear up (helmet, drysuit, pogies)
+- [x] Attach roof bars to van
+- [x] Gear up (helmet, drysuit, pogies)
 - [x] Go to a pool session
 - [x] Club trip to Wales
 - [x] Winter trip with LDCC
-- [ ] First solo kayak
+- [x] First solo kayak
 - [ ] Learn how to roll
-- [ ] Buy a boat (and paddle & spraydeck)
-- [ ] Trip with the Cumbrian canoeists
-- [ ] Kayak overnight bivvy
+- [x] Buy a boat (and paddle & spraydeck)
+- [x] Trip with the Cumbrian canoeists
+- [x] Kayak overnight bivvy
 
 ## Climbing 🧗
 
@@ -63,6 +63,6 @@ There is a [google maps](https://www.google.com/maps/d/edit?mid=1Chu2SuR7Qs6M79-
 - [ ] Kayak around the coast of North Wales
 - [ ] NC500 by bicycle
 - [ ] Run/walk the [Charnley Way](https://www.gofar.org.uk/charnley-way)
-- [ ] Visit Galloway National Park Dark Skies :milky_way:
+- [x] Visit Galloway National Park Dark Skies :milky_way:
 - [ ] Stay over at Mosedale Bothy with James
 - [ ] Walk the Pennine way (in parts)
