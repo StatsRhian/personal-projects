@@ -2,29 +2,30 @@ Personal Projects
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ==============
 
-# What I'm focusing on in November 2019 :fireworks:
+# What I'm focusing on in Spring Term 2021 :seedling:
+(Jan - Apr)
 
 1. Running regularly :running_woman:
-2. Improve kayaking :canoe:
-3. Eat well :apple:
+2. Get some headspace :lotus_position_woman:
+3. Log off :computer:
 
-## Running regularly :running_woman:
+## Move more :running_woman:
 
-- [x] Plan running routes
-- [ ] Run three times per week [0/4]
-- [ ] Mark runs in my calendar
-- [ ] Go on a Farleton run with Lonsdale
+- [ ] Run three times per week [1/12]
+- [ ] Keep the two-day rule 
+- [ ] Complete 1 x SAM for every run
 
-## Improve kayaking :canoe:
 
-- [x] Make as many Saturdays as possible [3/3]
-- [x] Research dry suits
-- [x] Order a helmet
-- [ ] Fix roof rack to Bongo
+## Get some headspace :lotus_position_woman:
 
-## Eat well :apple:
+- [ ] Complete Basics 1, 2 & 3
+- [ ] Reach 100 day streak on headspace
+- [ ] Spend more time in nature
+- [ ] Live more slowly
 
-- [ ] Continue vegan experiment
-- [ ] Edit online cookbook
-- [ ] Bake health snacks
-- [ ] Prep a meal in advanced
+
+## Log off :computer:
+
+- [x] Read digital minimalism
+- [ ] Get offline by 8pm
+- [ ] Check news weekly
