@@ -3,9 +3,9 @@ Personal Projects
 ==============
 
 # What I'm focusing on in Spring Term 2021 :seedling:
-(Jan - Apr)
+Jan 2021 - Apr 20201
 
-1. Running regularly :running_woman:
+1. Move more :running_woman:
 2. Get some headspace :lotus_position_woman:
 3. Log off :computer:
 
