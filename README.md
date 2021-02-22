@@ -18,7 +18,7 @@ Jan 2021 - Apr 20201
 
 ## Get some headspace :lotus_position_woman:
 
-- [ ] Complete Basics 1, 2 & 3
+- [x] Complete Basics 1, 2 & 3
 - [ ] Reach 100 day streak on headspace
 - [ ] Spend more time in nature
 - [ ] Live more slowly
