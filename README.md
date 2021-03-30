@@ -11,7 +11,7 @@ Jan 2021 - Apr 20201
 
 ## Move more :running_woman:
 
-- [ ] Run three times per week [1/12]
+- [x] Run three times per week [1/12]
 - [ ] Keep the two-day rule 
 - [ ] Complete 1 x SAM for every run
 
@@ -19,7 +19,7 @@ Jan 2021 - Apr 20201
 ## Get some headspace :lotus_position_woman:
 
 - [x] Complete Basics 1, 2 & 3
-- [ ] Reach 100 day streak on headspace
+- [x] Reach 100 day streak on headspace
 - [ ] Spend more time in nature
 - [ ] Live more slowly
 
